@@ -17,9 +17,8 @@ import java.lang.reflect.Method;
 import java.util.Scanner;
 
 /**
- * @Description:
- * @Author:FujiRen
- * @Date:2017/4/14 15:14
+ * @author zhangtong
+ * Created by on 2017/12/11
  */
 public class CKFinderConfig extends Configuration {
     public CKFinderConfig(ServletConfig servletConfig) {

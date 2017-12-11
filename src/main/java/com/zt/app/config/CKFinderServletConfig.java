@@ -7,9 +7,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * <p>CKFinderServletConfig</p>
- *
- * @author wuxinshui
+ * @author zhangtong
+ * Created by on 2017/12/11
  */
 @Configuration
 public class CKFinderServletConfig {
